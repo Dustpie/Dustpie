@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dustpie
-- 👀 I’m interested in mathematics, software engineering and Computer Vision.
+- 👀 I’m interested in mathematics & software engineering.
 - 💞️ I’m looking to collaborate on open source or private projects.
 
 <!---
